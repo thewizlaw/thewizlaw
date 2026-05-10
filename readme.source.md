@@ -181,9 +181,6 @@
 </div>
 ```
 
-<p align="center">
-<a href="https://github.com/thewizlaw"><img src="./.github/assets/readme-aura-component-3-f256bffb.svg" width="120" height="44" /></a><a href="mailto:hello@thewizlaw.dev"><img src="./.github/assets/readme-aura-component-4-f267f681.svg" width="110" height="44" /></a>
-</p>
 
 ```aura width=120 height=44 link="https://github.com/thewizlaw" inline align=center
 <SocialMediaButton
